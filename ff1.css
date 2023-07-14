@@ -1,0 +1,253 @@
+body{
+    background-image: url("bg.jpg");
+    background-size: cover;
+}
+
+.con{
+    
+    margin-top: -180px;
+}
+
+audio
+{
+    margin-bottom:-500px;
+    margin-left: 1100px;
+    height: 100px;
+    width:700px;
+}
+
+ ul li{
+    font-family:'Times New Roman', Times, serif;
+    display: none;
+    text-decoration: none;
+    font-size: 30px;
+    word-spacing: 5px;
+    text-align: center;
+}
+#gu{
+    font-size: 45px;
+    text-shadow: 3px 3px grey;
+    height: 300px;
+    width: 150px;
+   border-radius: 30px;
+    font-family:'Courier New', Courier, monospace;
+    background-color:rgb(9, 73,98);
+    border: 3px solid black;
+     color: rgb(255,255,255);
+    margin-left: 860px;
+    padding: 20px;
+
+}
+
+
+
+marquee{
+    width: 100%;
+    height: 60px;
+    direction: "left";
+   text-align: center;
+   color: azure;
+   word-spacing: 10px;
+   
+   text-shadow:3px 3px black ;
+    font-size: 40px;
+}
+#gu:hover{
+    font-size: 65px;
+    text-shadow: 3px 3px grey;
+    height: 300px;
+    width: 150px;
+    color: white;
+    background-color:black;
+    border: 2px solid black;
+  margin-left: 860px;
+    padding: 20px;
+}   
+ #top{
+    background-color: white;
+    border: 5px solid black ;
+position: relative;
+    height: 140px;
+    width: 180px;
+padding:30px 10px 40px 10px; 
+    margin: 300px;
+   background-color:rgb(106, 83, 223);
+    margin-left: 600px;
+    border-radius: 100%;
+}
+ #eye{
+    width: 15px;
+    height: 14px;
+    
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 78px;
+    border-radius: 100%;
+    background-color: white;
+    border: 3px solid black;
+}
+#a{
+    width: 10px;
+    height: 13px;
+  background-color: black;    
+    margin-left: 80px;
+    margin-top: -26px;
+border-radius: 100%;
+padding: 2px;
+}
+#b{
+    width: 10px;
+    height: 13px;
+  background-color: black;    
+    margin-right: 87px;
+    margin-top: -24px;
+    
+border-radius: 100%;
+padding: 2px;
+}
+ #eye1{
+    width: 15px;
+    height: 14px;
+    
+    padding: 10px;
+    margin-top: -29px;
+    margin-right: 88px;
+    border-radius: 100%;
+    background-color: white;
+    border: 3px solid black;
+}
+
+#bala:hover{
+   
+font-size: 50px;
+}
+#ear1{
+    border: 3px solid black;
+    background-color: aliceblue;
+ height: 45px;
+ width: 30px;
+margin-left: -190px;
+padding: 5px;
+margin-top: -155px;
+    border-top-left-radius: 100%;
+}
+#ear2{
+    border: 3px solid black;
+    background-color: aliceblue;
+ height: 45px;
+ width: 32px;
+ margin-top: -55px;
+ margin-left: 167px;
+padding: 5px;
+    border-top-right-radius: 100%;
+}
+#mouth{
+    width: 47px;
+    height: 25px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 7px 7px 100px 100px;
+}
+#mouth:hover{
+    width: 47px;
+    height: 25px;
+    background-color:red;
+    border: 3px solid black;
+    border-radius: 100px 100px 7px 7px;
+}
+
+#mouth:hover{
+    width: 47px;
+    height: 25px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 100px 100px 7px 7px;
+}
+
+#bhu{
+    width: 150px;
+    padding: 15px 15px 30px 10px;
+    height: 62px;
+ font-family:fantasy;
+    font-weight: bold;
+    margin-left: 150px;
+    font-size: 30px;
+   color: black;
+    background-color: white;
+    text-align: center;
+}
+#bu{
+    width: 150px;
+    padding: 15px 15px 30px 10px;
+    height: 62px;
+    margin-left: 300px;
+    font-family:fantasy;
+    font-weight: bold;
+    font-size: 30px;
+   color: black;
+    background-color: white;
+    text-align: center;
+}
+#bu:hover{
+    width: 150px;
+    padding: 15px 15px 40px 10px;
+    height: 62px;
+    margin-left: 300px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+   color: white;
+    background-color:black;
+    text-align: center;
+}
+#bu1{
+    width: 150px;
+   height: 60px;
+    font-family: fantasy;
+    font-weight: bold;
+   margin-left: 410px;
+    font-size: 30px;
+    color:black;
+    background-color: wheat;
+    text-align: center;
+}
+#bu1:hover{
+    width: 150px;
+   height: 60px;
+    font-family: fantasy;
+    font-weight: bold;
+   margin-left: 410px;
+   padding: 15px;
+    font-size: 40px;
+    color:white;
+    background-color: black;
+    text-align: center;
+}
+
+
+
+#bu2{
+    width: 150px;
+ margin-left: 450px;
+     height: 60px;
+
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: 30px;
+    color:black;
+    background-color: wheat;
+    text-align: center;
+}
+
+#bu2:hover{
+    width: 150px;
+ margin-left: 450px;
+     height: 60px;
+   padding: 15px;
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: 40px;
+    color:white;
+    background-color:black;
+    text-align: center;
+}
